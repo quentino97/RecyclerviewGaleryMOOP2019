@@ -1,6 +1,6 @@
 # RecyclerviewGaleryMOOP2019
 
-Android Gallery App
+Android Gallery App apk
 
 
 Menggunakan Recyclerview, DENGAN MENGGUNAKAN PATH BASIC SAJA
